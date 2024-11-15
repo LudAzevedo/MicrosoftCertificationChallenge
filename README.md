@@ -82,19 +82,3 @@ Como profissional em constante evolução na área de tecnologia, este bootcamp 
 
 A escolha deste bootcamp reflete minha determinação em me manter atualizado com as tecnologias mais recentes e minha busca por desafios que me permitam crescer profissionalmente. Através dele, estou desenvolvendo habilidades práticas em Azure e OpenAI, ferramentas essenciais no cenário atual de IA.
 
-## 📫 Contatos e Redes Sociais
-
-Vamos nos conectar? Estou sempre aberto a novas oportunidades e networking! 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliookuda/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jcnok)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio.okuda@gmail.com)
-
-
-### 🎯 Habilidades em Desenvolvimento
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-⭐ *Este README será atualizado regularmente com novos conteúdos e conquistas ao longo do bootcamp. Fique à vontade para entrar em contato para discussões sobre tecnologia, oportunidades de colaboração ou networking!*
