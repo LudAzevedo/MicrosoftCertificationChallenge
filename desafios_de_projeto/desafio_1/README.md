@@ -179,10 +179,3 @@ Este projeto não é apenas uma ferramenta de tradução, mas um exemplo de como
 
 ---
 
-<div align="center">
-  <p>Desenvolvido por Julio Okuda com ❤️ e ☕</p>
-  <p>
-    <a href="https://www.linkedin.com/in/juliookuda/">LinkedIn</a> •
-    <a href="https://github.com/Jcnok">GitHub</a>
-  </p>
-</div>
