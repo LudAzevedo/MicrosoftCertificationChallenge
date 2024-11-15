@@ -1,11 +1,5 @@
 # 🚀 Bootcamp Microsoft Certification Challenge AI-102
 
-<a href="https://www.dio.me/bootcamp/microsoft-ai-102">
-  <img src="img/badge.webp" alt="Microsoft Bootcamp logo" style="width: 40%; margin: 0 5px;" />
-</a>
-<a href="https://www.dio.me/users/julio_okuda">
-  <img src="https://hermes.dio.me/public-users/julio_okuda/share/5a0d73200e1270482bb86bdeb079f23c.png" alt="drawing" style="width: 55%; margin: 0 5px;" />
-</a>
 
 ## 🎯 Sobre o Bootcamp
 
